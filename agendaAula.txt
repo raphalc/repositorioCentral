@@ -10,4 +10,5 @@ Agenda
 9. Fork
 10. criar branch - git branch <nome_branch>
 11. git checkout "branch"
+12. git merge
 
