@@ -8,4 +8,6 @@ Agenda
 7. git fetch
 8. git push
 9. Fork
-10.branch
+10. criar branch - git branch <nome_branch>
+11. git checkout "branch"
+
