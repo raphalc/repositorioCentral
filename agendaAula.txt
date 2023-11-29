@@ -1,0 +1,14 @@
+Agenda
+1. criar o repositório
+2. adicionar o arquivo na área de stage (git add)
+3. adicionar o arquivo para o repositorio (git commit)
+4. git log - acompanhar o histórico de commits no repositório
+5. git diff
+6. git revert
+7. git fetch
+8. git push
+9. Fork
+10. criar branch - git branch <nome_branch>
+11. git checkout "branch"
+12. git merge
+
